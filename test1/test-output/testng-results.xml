@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16339" started-at="2020-06-28T17:05:16Z" finished-at="2020-06-28T17:05:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16339" started-at="2020-06-28T17:05:16Z" finished-at="2020-06-28T17:05:32Z">
+      <class name="com.demotricentis.testCases.TCRegistartionLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.demotricentis.testCases.TCRegistartionLogin@71318ec4]" name="setup" is-config="true" duration-ms="7099" started-at="2020-06-28T17:05:16Z" finished-at="2020-06-28T17:05:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginRegistartion()[pri:0, instance:com.demotricentis.testCases.TCRegistartionLogin@71318ec4]" name="loginRegistartion" duration-ms="8338" started-at="2020-06-28T17:05:23Z" finished-at="2020-06-28T17:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginRegistartion -->
+        <test-method status="PASS" signature="tear()[pri:0, instance:com.demotricentis.testCases.TCRegistartionLogin@71318ec4]" name="tear" is-config="true" duration-ms="869" started-at="2020-06-28T17:05:31Z" finished-at="2020-06-28T17:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+      </class> <!-- com.demotricentis.testCases.TCRegistartionLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

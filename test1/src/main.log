@@ -1,0 +1,9 @@
+2020-06-28 00:10:13,400 +0530 [main] INFO  (TCRegistartionLogin.java:14) - Entered Demowebshop
+2020-06-28 00:10:14,284 +0530 [main] INFO  (TCRegistartionLogin.java:17) - Registartion Link Clicked
+2020-06-28 22:35:29,032 +0530 [main] INFO  (logUtility.java:18) - The Registration link is clciked Successfully
+2020-06-28 22:35:29,175 +0530 [main] INFO  (logUtility.java:18) - The radio option male is clicked
+2020-06-28 22:35:29,461 +0530 [main] INFO  (logUtility.java:18) - Firstname is entered
+2020-06-28 22:35:29,636 +0530 [main] INFO  (logUtility.java:18) - Lastname is entered
+2020-06-28 22:35:29,980 +0530 [main] INFO  (logUtility.java:18) -  Email is Entered
+2020-06-28 22:35:30,350 +0530 [main] INFO  (logUtility.java:18) - Password is entered
+2020-06-28 22:35:31,566 +0530 [main] INFO  (logUtility.java:18) - Register button clicked
